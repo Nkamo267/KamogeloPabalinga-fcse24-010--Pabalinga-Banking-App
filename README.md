@@ -1,1 +1,1 @@
-# KamogeloPabalinga-fcse24-010--FNB-Banking-App
+# KamogeloPabalinga-fcse24-010--Pabalinga-Banking-App
